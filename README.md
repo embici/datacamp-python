@@ -1,2 +1,2 @@
 # datacamp-python
-Work examples generated during training
+Code examples generated during training
